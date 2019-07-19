@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/python-programming-language/
+https://www.geeksforgeeks.org/operating-system-the-linux-kernel/
+https://likegeeks.com/awk-command/
+
